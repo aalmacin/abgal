@@ -17,9 +17,11 @@
     "access": "public"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "builder"
   },
   "devDependencies": {
+    "@abgal/builder": "^0.0.0",
     "react": "^17.0.1"
   },
   "peerDependencies": {

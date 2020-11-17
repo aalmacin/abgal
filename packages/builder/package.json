@@ -6,6 +6,7 @@
   "author": "Aldrin Jerome Almacin <aldrinjerome19@gmail.com>",
   "license": "ISC",
   "main": "lib/builder.js",
+  "bin": "./lib/builder.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"

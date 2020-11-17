@@ -22,5 +22,8 @@
   "dependencies": {
     "@abgal/button": "^0.0.0",
     "@abgal/text": "^0.0.0"
+  },
+  "devDependencies": {
+    "@abgal/builder": "^0.0.0"
   }
 }

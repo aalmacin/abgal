@@ -1,7 +1,3 @@
-'use strict';
+#!/usr/bin/env node
 
-module.exports = builder;
-
-function builder() {
-    // TODO
-}
+console.log('Woo')

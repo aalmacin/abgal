@@ -1,7 +1,4 @@
-'use strict';
+import React from 'react'
 
-module.exports = button;
-
-function button() {
-    // TODO
-}
+const Button = ({children}) => <button>{children}</button>
+export {Button}

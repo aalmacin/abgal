@@ -1,7 +1,4 @@
-'use strict';
+import {Button} from '@abgal/button'
+import {Text} from '@abgal/text'
 
-module.exports = abgal;
-
-function abgal() {
-    // TODO
-}
+export {Button, Text}

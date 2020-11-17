@@ -1,7 +1,4 @@
-'use strict';
+import React from 'react'
 
-module.exports = text;
-
-function text() {
-    // TODO
-}
+const Text = ({children}) => <p>{children}</p>
+export {Text}
