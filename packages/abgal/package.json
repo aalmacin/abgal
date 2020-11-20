@@ -5,7 +5,9 @@
   "keywords": [],
   "author": "Aldrin Jerome Almacin <aldrinjerome19@gmail.com>",
   "license": "ISC",
-  "main": "lib/abgal.js",
+  "main": "dist/abgal.cjs.js",
+  "module": "dist/abgal.esm.js",
+  "src": "lib/abgal.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
